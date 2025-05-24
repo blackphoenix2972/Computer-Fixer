@@ -1,3 +1,5 @@
-![image](https://github.com/user-attachments/assets/e73c0291-f4f3-4093-81d8-fefb6dff1815)
+Welcome to my python computer fixer software.
 
-![image](https://github.com/user-attachments/assets/f0264cef-64d3-4bcc-8a81-761ecc1a4f0c)
+To start the program jst run > python ./main.py
+
+![image](https://github.com/user-attachments/assets/013808e5-43a8-459b-8dd7-1f949faf4e0f)
